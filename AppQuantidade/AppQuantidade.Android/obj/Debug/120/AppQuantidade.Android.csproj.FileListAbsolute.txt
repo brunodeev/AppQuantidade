@@ -634,3 +634,11 @@ C:\Dev\AppQuantidade\AppQuantidade\AppQuantidade.Android\obj\Debug\120\stamp\_Co
 C:\Dev\AppQuantidade\AppQuantidade\AppQuantidade.Android\obj\Debug\120\stamp\_GenerateJavaStubs.stamp
 C:\Dev\AppQuantidade\AppQuantidade\AppQuantidade.Android\obj\Debug\120\stamp\_GeneratePackageManagerJava.stamp
 C:\Dev\AppQuantidade\AppQuantidade\AppQuantidade.Android\obj\Debug\120\stamp\_ResolveLibraryProjectImports.stamp
+C:\Dev\AppQuantidade\AppQuantidade\AppQuantidade.Android\obj\Debug\120\res\drawable-hdpi\e40060357aabc50603315818b068ba63.png
+C:\Dev\AppQuantidade\AppQuantidade\AppQuantidade.Android\obj\Debug\120\res\drawable\splashscreen.xml
+C:\Dev\AppQuantidade\AppQuantidade\AppQuantidade.Android\obj\Debug\120\res\drawable-ldpi\e40060357aabc50603315818b068ba63.png
+C:\Dev\AppQuantidade\AppQuantidade\AppQuantidade.Android\obj\Debug\120\res\drawable-mdpi\e40060357aabc50603315818b068ba63.png
+C:\Dev\AppQuantidade\AppQuantidade\AppQuantidade.Android\obj\Debug\120\res\drawable-xhdpi\e40060357aabc50603315818b068ba63.png
+C:\Dev\AppQuantidade\AppQuantidade\AppQuantidade.Android\obj\Debug\120\res\drawable-xxhdpi\e40060357aabc50603315818b068ba63.png
+C:\Dev\AppQuantidade\AppQuantidade\AppQuantidade.Android\obj\Debug\120\res\drawable-xxxhdpi\e40060357aabc50603315818b068ba63.png
+C:\Dev\AppQuantidade\AppQuantidade\AppQuantidade.Android\obj\Debug\120\android\src\crc64b157b3412a31e9a1\SplashActivity.java
